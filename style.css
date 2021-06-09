@@ -1,12 +1,35 @@
 .container{
+    position: relative;
+    height: 620px;
+    width: 600px;
+    background-color:yellow ;
+    margin: auto;
+}
+input{
+       display: block;
+       text-align: center;
+}
+h1{
+    font-style: oblique;
     text-align: center;
 }
-ul{
-    font-size: larger;
+#btn{
+    margin-left:  250px; ;
+    margin-top: 80px;
+    background-color:red;
+    border-radius: 12px;
+    font-size: large;
+    color: white;
 }
 body{
-    background-color:lightgray;
+    background-color: firebrick;
 }
-h2{
-    color:green;
+.form{
+    text-align: center;
+}
+.inp{
+    margin: auto;
+}
+#h2{
+    text-align: center;
 }
